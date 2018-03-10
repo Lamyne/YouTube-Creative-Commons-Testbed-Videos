@@ -8,7 +8,7 @@ The origin videos are 24, where each one had 30 seconds duration and Full HD res
 
 - All the modified video sequences are available in the link [3].
 
-- An objective evaluation of the modified video sequences is presented in the file "Objective-Study.xlsx"
+- An objective evaluation of the modified video sequences is presented in the file "Objective-Study.xlsx". In this evaluation, Peak Signal to Noise Ratio (PSNR) and Structural Similarity (SSIM) metrics were calculated.
 
 
 Links: 
