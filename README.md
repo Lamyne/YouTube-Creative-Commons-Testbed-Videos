@@ -6,9 +6,9 @@ The origin videos are 24, where each one had 30 seconds duration and Full HD res
 
 - In this project, the modified video sequences (reduced quality) are shared. In fact, for each origin video sequence, five sub-qualitties (144p, 240p, 360p, 480p  and 720p (HD)) are created.   
 
-All the modified video sequences are available in the link [3].
+- All the modified video sequences are available in the link [3].
 
-An objective evaluation of the modified video sequences is presented in the file "Objective-Study.xlsx"
+- An objective evaluation of the modified video sequences is presented in the file "Objective-Study.xlsx"
 
 
 Links: 
